@@ -1,0 +1,99 @@
+<body style="background-color:powderblue;">
+<ht<html>
+<body style="color: #333; background-color: #CCC;">
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+<div class="w3-container w3-center">
+<h1 style="background-color:MediumSeaGreen;">Hoja de vida</h1>
+
+</div>
+
+<h1 style="font-family: Times New Roman; font-size: 1em"></h1>
+<img src= "https://scontent.fgye1-1.fna.fbcdn.net/v/t1.0-9/117643938_3144079755686686_8446814133329757969_n.jpg?_nc_cat=106&ccb=2&_nc_sid=174925&_nc_ohc=w1H2gmLaU2EAX8wIvyP&_nc_ht=scontent.fgye1-1.fna&oh=2f0cc5305b9e0d35c54e738da58331e7&oe=6041CE51"
+ margin-left:900px"  width="300" height="200"/>
+<h1 style="background-color:MediumSeaGreen;">Datos personales</h1>
+ </h1>
+<p>Nombres: Luis Fabian</p>
+<p>Apellidos:Morocho Nivelo	</p>
+<p>Direccion: Sunicorral </p>
+<p>Telefonos:07-3016498</p>
+<p>Celular:0987093807</p>
+<p>Lugar y fecha de Nacimiento: Cañar-20/02/2000</p>
+<p>Edad: 20</p>
+<p>Estado Civil: Soltero </p>
+<p>Nro. C.I :0350139374</p>
+
+<h1 style="background-color:MediumSeaGreen;">Nivel de Educcion</h1>
+<p>Estudios Primarios : Unidad Educativa 12 de Octubre
+<p>Estudios Secundarios : Colegio Nacional El Tambo</p>
+<p>Estudios Universitarios : Universidad Catolica de Cuenca extension Cañar</p>
+<p>Idiomas : Español</p>
+
+</body>
+</html><body>
+</body>
+</html>
+</body>
+</html>
+
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideToggle("slow");
+  });
+});
+</script>
+<style> 
+#panel, #flip {
+  padding: 5px;
+  text-align: left;
+  background-color:powderblue;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+</style>
+</head>
+<body>
+ 
+<div id="flip"><h1 style="background-color:MediumSeaGreen;">Areas de interes</h1></div>
+<div id="panel">
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+    <div class="w3-left-align"><p>
+    <li>Administracion y manejo de BD MySQL</li>
+    <li>Ingenieria de Software</li>
+    <li>Implementacion de herramientas de software libre</li>
+    <li>Arqitectura de Computadores</li>
+  </ul></p></div>
+  </div>
+</div>
+</div>
+</body>
+</html>
+</body>
+</html>
+</div>
+
+</body>
+</html>
+
